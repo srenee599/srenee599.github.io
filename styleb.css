@@ -1,0 +1,148 @@
+body {
+  background-color: #687864;
+}
+h1, h2, h3, h4, p {
+    color: black;
+    font-family: inherit;
+    boarder: 25px;
+}
+
+.header {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(Beeguy.jpeg) no-repeat;
+  background-size: cover;
+}
+
+.headertxt {
+  padding-top:10%;
+  color: white;
+  font-size: 85px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.body {
+  color: black;
+  text-align: left;
+}
+
+.body1 {
+  background-color: #31708E;
+  padding: 75vh;
+  overflow: auto;
+}
+
+.body1left {
+  float: left;
+}
+
+.body1right {
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+.bodytxt1 {
+  padding-top:5%;
+  color: white;
+  font-size: 50px;
+}
+
+.body2 {
+  background-color: #5085A5;
+  text-color: white;
+  padding: 75vh;
+  overflow: auto;
+}
+
+.body2left {
+  float: left;
+}
+
+.body2right {
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+.bodytxt2 {
+  padding-top:5%;
+  color: white;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.body3 {
+  background-color: #8FC1E3;
+  padding: 75vh;
+  overflow: auto;
+}
+
+.body3left {
+  float: left;
+}
+
+.body3right {
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+.bodytxt3 {
+  padding-top:5%;
+  color: white;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.body4 {
+  background-color: #F7F9FB;
+  padding: 75vh;
+  overflow: auto;
+}
+
+.body4left {
+  float: left;
+}
+
+.body4right {
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+.bodytxt4 {
+  padding-top:5%;
+  color: black;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(BeeguyCOOLER.jpeg) no-repeat;
+  background-size: cover;
+}
+
+.footertxt {
+  padding-top:10%;
+  color: white;
+  font-size: 85px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
